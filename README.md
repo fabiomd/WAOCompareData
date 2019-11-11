@@ -10,7 +10,7 @@ O indivíduo denominado "bestIndividual" foi gerado pelo algoritmo otimizador.
 
 ## Testes
 
-O teste é responsável por executar o algoritmo selecionado, utilizando um dos conjuntos de dados fornecidos.
+O teste é responsável por executar o algoritmo selecionado utilizando um dos conjuntos de dados fornecidos.
 
 ## Comando
 
