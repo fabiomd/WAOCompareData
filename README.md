@@ -4,7 +4,7 @@ Dado utilizados para comparação entre dois algoritmos WebAssembly.
 
 ## Indivíduos
 
-O indivíduo denominado "original" foi desenvolvido para experimentação do algoritmo otimizador [WebAssembly Optimizer](https://github.com/fabiomd/TCC/blob/master/README.md)
+O indivíduo denominado "original" foi desenvolvido para experimentação do algoritmo otimizador [WebAssembly Optimizer](https://github.com/fabiomd/TCC)
 
 O indivíduo denominado "bestIndividual" foi gerado pelo algoritmo otimizador.
 
